@@ -4,7 +4,7 @@
 
 Implementation of `cat` and `grep` utilities using the C programming language.
 
-This is a project I did while attending programming school. Main goal of this project is to familirize myself with the C programming language and structured programming. These implementation are far worse than those provided by [GNU](https://www.gnu.org/software/grep/) and [BSD](https://cgit.freebsd.org/src/tree/usr.bin/grep/grep.c) in terms of, at least, performance. All of the code is pretty much straightforward and does not buffers the output, for example, that may be a huge boost to pefromance. I might try to do that later. Though implementation of `cat` found in this repository works better with non-ASCII characters compared to implementation provided by [BSD](https://cgit.freebsd.org/src/tree/usr.bin/grep/grep.c) (which is used in macOS, for example).
+This is a project I did while attending programming school. Main goal of this project is to familirize myself with the C programming language and structured programming. These implementations are far worse than those provided by [GNU](https://www.gnu.org/software/grep/) and [BSD](https://cgit.freebsd.org/src/tree/usr.bin/grep/grep.c) in terms of, at least, performance. All of the code is pretty much straightforward and does not buffer the output, for example, that may be a huge boost to pefromance. I might try to do that later. Though implementation of `cat` found in this repository works better with non-ASCII characters compared to implementation provided by [BSD](https://cgit.freebsd.org/src/tree/usr.bin/grep/grep.c) (which is used in macOS, for example).
 
 ## Build
 
