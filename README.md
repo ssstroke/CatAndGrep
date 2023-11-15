@@ -24,7 +24,7 @@ $ make
 
 | No. | Options | Description |
 | ------ | ------ | ------ |
-| 1 | -b (GNU: --number-nonblank) | numbers only non-empty lines |
+| 1 | -b (GNU: --number-nonblank) | number only non-empty lines |
 | 2 | -e implies -v (GNU only: -E the same, but without implying -v) | but also display LFD as $  |
 | 3 | -n (GNU: --number) | number all output lines |
 | 4 | -s (GNU: --squeeze-blank) | squeeze multiple adjacent blank lines |
